@@ -46,7 +46,6 @@
 This is my <strong>4<sup>th</sup></strong> Frontend Mentor challenge.
 
 This is my solution to the QR code component challenge on Frontend Mentor. The goal of this challenge is to build out a QR code component and get it looking as close to the [design](./design/desktop-preview.jpg) as possible.
-Users should be able to ....... from **challenge template file**.
 
 ## Built with
 
