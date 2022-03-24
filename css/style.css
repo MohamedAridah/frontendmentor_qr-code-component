@@ -62,7 +62,7 @@ body {
   padding: 1.375rem 1rem;
 }
 
-.qrcode-text h2 {
+.qrcode-text h1 {
   font-size: 1.375rem;
   color: var(--dark-blue);
   margin-bottom: 1rem;
